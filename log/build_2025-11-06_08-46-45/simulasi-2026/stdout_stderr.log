@@ -1,0 +1,15 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found xacro: 2.1.1 (/opt/ros/humble/share/xacro/cmake)
+[31mCMake Error at CMakeLists.txt:20 (install):
+  install DIRECTORY given non-directory "scripts/respawn_entity.py" to
+  install.
+
+[0m
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring incomplete, errors occurred!
+See also "/home/ridwan/alamak_gazebo/build/simulasi-2026/CMakeFiles/CMakeOutput.log".
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

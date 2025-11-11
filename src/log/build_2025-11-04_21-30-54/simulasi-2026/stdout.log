@@ -1,0 +1,69 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ridwan/alamak_gazebo/src/build/simulasi-2026
+-- Install configuration: ""
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch/__pycache__
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch/__pycache__/display.launch.cpython-310.pyc
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch/display.launch.py
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/rviz
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/rviz/navigation.rviz
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/rviz/urdf_config.rviz
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/nav2_params.yaml
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/localization
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/localization/ekf.yaml
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/localization/online_async_slam.yaml
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/ps4_teleop.yaml
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/worlds
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/worlds/my_world.sdf
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/meshes
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/meshes/lapangan.stl
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/meshes/lapangan.dae
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/model.config
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/lapangan.sdf
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/description
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/description/diff_drive_description.urdf
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapkuh.pgm
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapku.posegraph
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapkuh.yaml
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapku.data
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/simulasi-2026.dsv
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/simulasi-2026.sh
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/ament_index/resource_index/package_run_dependencies/simulasi-2026
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/ament_index/resource_index/parent_prefix_path/simulasi-2026
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/ament_prefix_path.sh
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/ament_prefix_path.dsv
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/path.sh
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/path.dsv
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.bash
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.sh
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.zsh
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.dsv
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/package.dsv
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/ament_index/resource_index/packages/simulasi-2026
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/cmake/simulasi-2026Config.cmake
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/cmake/simulasi-2026Config-version.cmake
+-- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/package.xml

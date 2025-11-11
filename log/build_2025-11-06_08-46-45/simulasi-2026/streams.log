@@ -1,0 +1,17 @@
+[0.008s] Invoking command in '/home/ridwan/alamak_gazebo/build/simulasi-2026': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ridwan/alamak_gazebo/build/simulasi-2026 -- -j12 -l12
+[0.031s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.134s] -- Found xacro: 2.1.1 (/opt/ros/humble/share/xacro/cmake)
+[0.134s] [31mCMake Error at CMakeLists.txt:20 (install):
+[0.134s]   install DIRECTORY given non-directory "scripts/respawn_entity.py" to
+[0.134s]   install.
+[0.134s] 
+[0.134s] [0m
+[0.135s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.186s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.187s] -- Added test 'lint_cmake' to check CMake code style
+[0.187s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.189s] -- Added test 'xmllint' to check XML markup files
+[0.189s] -- Configuring incomplete, errors occurred!
+[0.189s] See also "/home/ridwan/alamak_gazebo/build/simulasi-2026/CMakeFiles/CMakeOutput.log".
+[0.191s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.193s] Invoked command in '/home/ridwan/alamak_gazebo/build/simulasi-2026' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ridwan/alamak_gazebo/build/simulasi-2026 -- -j12 -l12

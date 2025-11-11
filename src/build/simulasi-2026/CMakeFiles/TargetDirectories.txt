@@ -1,0 +1,9 @@
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/uninstall.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/simulasi-2026_uninstall.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/test.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/edit_cache.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/rebuild_cache.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/list_install_components.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/install.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/install/local.dir
+/home/ridwan/alamak_gazebo/src/build/simulasi-2026/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+source;share/simulasi-2026/environment/ament_prefix_path.sh
+source;share/simulasi-2026/environment/path.sh
+source;share/simulasi-2026/environment/simulasi-2026.sh
+source;share/simulasi-2026/environment/simulasi-2026.dsv

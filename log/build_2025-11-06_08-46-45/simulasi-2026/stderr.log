@@ -1,0 +1,6 @@
+[31mCMake Error at CMakeLists.txt:20 (install):
+  install DIRECTORY given non-directory "scripts/respawn_entity.py" to
+  install.
+
+[0m
+gmake: *** [Makefile:226: cmake_check_build_system] Error 1

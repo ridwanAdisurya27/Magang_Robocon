@@ -1,0 +1,52 @@
+[0.022s] Invoking command in '/home/ridwan/alamak_gazebo/src/build/simulasi-2026': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ridwan/alamak_gazebo/src/build/simulasi-2026 -- -j12 -l12
+[0.081s] Invoked command in '/home/ridwan/alamak_gazebo/src/build/simulasi-2026' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ridwan/alamak_gazebo/src/build/simulasi-2026 -- -j12 -l12
+[0.093s] Invoking command in '/home/ridwan/alamak_gazebo/src/build/simulasi-2026': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ridwan/alamak_gazebo/src/build/simulasi-2026
+[0.103s] -- Install configuration: ""
+[0.103s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch
+[0.104s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch/__pycache__
+[0.105s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch/__pycache__/display.launch.cpython-310.pyc
+[0.105s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/launch/display.launch.py
+[0.105s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/rviz
+[0.105s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/rviz/navigation.rviz
+[0.105s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/rviz/urdf_config.rviz
+[0.106s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config
+[0.106s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/nav2_params.yaml
+[0.107s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/localization
+[0.108s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/localization/ekf.yaml
+[0.109s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/localization/online_async_slam.yaml
+[0.109s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/config/ps4_teleop.yaml
+[0.110s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/worlds
+[0.110s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/worlds/my_world.sdf
+[0.110s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/meshes
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/meshes/lapangan.stl
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/meshes/lapangan.dae
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/model.config
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/models/lapangan/lapangan.sdf
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/description
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/description/diff_drive_description.urdf
+[0.111s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps
+[0.112s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapkuh.pgm
+[0.112s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapku.posegraph
+[0.112s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapkuh.yaml
+[0.112s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/maps/mapku.data
+[0.113s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/lib/simulasi-2026/respawn_entity.py
+[0.113s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/simulasi-2026.dsv
+[0.113s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/simulasi-2026.sh
+[0.113s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/ament_index/resource_index/package_run_dependencies/simulasi-2026
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/ament_index/resource_index/parent_prefix_path/simulasi-2026
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/ament_prefix_path.sh
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/ament_prefix_path.dsv
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/path.sh
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/environment/path.dsv
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.bash
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.sh
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.zsh
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/local_setup.dsv
+[0.114s] -- Installing: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/package.dsv
+[0.114s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/ament_index/resource_index/packages/simulasi-2026
+[0.115s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/cmake/simulasi-2026Config.cmake
+[0.115s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/cmake/simulasi-2026Config-version.cmake
+[0.115s] -- Up-to-date: /home/ridwan/alamak_gazebo/src/install/simulasi-2026/share/simulasi-2026/package.xml
+[0.115s] Invoked command in '/home/ridwan/alamak_gazebo/src/build/simulasi-2026' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ridwan/alamak_gazebo/src/build/simulasi-2026

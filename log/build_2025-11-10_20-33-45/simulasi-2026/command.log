@@ -1,0 +1,4 @@
+Invoking command in '/home/ridwan/alamak_gazebo/build/simulasi-2026': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ridwan/alamak_gazebo/build/simulasi-2026 -- -j12 -l12
+Invoked command in '/home/ridwan/alamak_gazebo/build/simulasi-2026' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ridwan/alamak_gazebo/build/simulasi-2026 -- -j12 -l12
+Invoking command in '/home/ridwan/alamak_gazebo/build/simulasi-2026': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ridwan/alamak_gazebo/build/simulasi-2026
+Invoked command in '/home/ridwan/alamak_gazebo/build/simulasi-2026' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ridwan/alamak_gazebo/build/simulasi-2026
